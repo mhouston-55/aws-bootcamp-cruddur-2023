@@ -14,3 +14,5 @@ aws cognito-idp admin-set-user-password \
 -Tested signout functionality, was working.
 -Able to set display name and preferred username
 -deleted user
+-Got signup functionality working and tested sign in afterwards as well as saw new user creation in userpool in Cognito.
+-Successfully forgot password and sent code to reset new password and signin.
